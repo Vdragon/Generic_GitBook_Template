@@ -2,13 +2,13 @@
 〈GitBook 的「一言以蔽之」描述句〉  
 〈GitBook 的官方網站地址(project's official site URL)〉
 
-## 本 GitBook 的智慧財產授權條款<br />Intellectual Property License of This GitBook
+## 本 GitBook 的智慧財產授權條款
 尚未指定財產授權條款，保留所有權利
 
-## 常見問題與解答<br />Frequently Asked Questions and Answers
+## 常見問題與解答
 
-## 如何對本 GitBook 做出貢獻<br />How to contribute to this GitBook
-### 回報問題與改善建議<br />Report issues and improvement suggestions
+## 如何對本 GitBook 做出貢獻
+### 回報問題與改善建議
 發現問題或是有改善本 GitBook 的建議的話請到[本 GitBook 的問題追蹤系統(issue tracker)](../../issues)建檔回報
 
 ### 貢獻本 GitBook 內容
