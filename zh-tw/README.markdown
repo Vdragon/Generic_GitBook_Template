@@ -1,4 +1,4 @@
-# 〈GitBook 名稱〉<br />&lt;GitBook name&gt;
+# 〈GitBook 名稱〉
 〈GitBook 的「一言以蔽之」描述句〉  
 〈GitBook 的官方網站地址(project's official site URL)〉
 
