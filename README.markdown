@@ -16,6 +16,7 @@ Please browse our project's issue tracker.
 [https://github.com/Vdragon/Generic_GitBook_Template/issues](https://github.com/Vdragon/Generic_GitBook_Template/issues)
 
 ----------------------------------
+
 # 〈GitBook 名稱〉<br />&lt;Gitbook's name&gt;
 （GitBook 的「一言以蔽之」描述句）  
 (GitBook's "in a nutshell" describing sentence)  
