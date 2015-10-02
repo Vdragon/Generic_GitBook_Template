@@ -1,3 +1,7 @@
 {
-	"gitbook" : "2.x.x"
+	"gitbook" : "2.x.x", 
+	"title" : "〈我的 GitBook 名稱(My GitBook name)〉", 
+	"variables": {
+		"title" : "〈我的 GitBook 名稱(My GitBook name)〉"
+	}
 }
