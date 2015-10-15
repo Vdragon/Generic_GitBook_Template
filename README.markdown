@@ -22,7 +22,7 @@ Please browse our project's issue tracker.
 (GitBook's "in a nutshell" describing sentence)  
 〈GitBook 的官方網站地址(GitBook's official site URL)〉
 
-## 本 GitBook 的智慧財產授權條款<br />Intellectual Property License of This GitBook
+## 本作品的智慧財產授權條款<br />Intellectual Property License of This Work
 尚未指定財產授權條款，保留所有權利  
 Haven't select a intellectual property license, ALL RIGHTS RESERVED
 

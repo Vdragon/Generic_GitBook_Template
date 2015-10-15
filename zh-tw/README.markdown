@@ -2,7 +2,7 @@
 〈GitBook 的「一言以蔽之」描述句〉  
 〈GitBook 的官方網站地址(project's official site URL)〉
 
-## 本 GitBook 的智慧財產授權條款
+## 本作品的智慧財產授權條款
 尚未指定財產授權條款，保留所有權利
 
 ## 如何對本專案做出貢獻<br />How to Contribute to This Project
